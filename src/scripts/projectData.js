@@ -65,7 +65,7 @@ const projectData = {
         images: [
             'assets/blog/blog.png',
             'assets/blog/Admin-dashboard.png',
-            'assets/blog/contact.png'
+            'assets/blog/contact.png',
             'assets/blog/blog-page.png'
             
         ],
@@ -84,7 +84,7 @@ const projectData = {
 
             'Analytics dashboard to track post performance',
 
-            'Page where users can view on individual posts',
+            'Page where users can view on individual posts'
         ]
     },
     'eclipse': {
