@@ -582,7 +582,7 @@ footer {
     background-color: white;
     margin: 3% auto;
     width: 95%;
-    max-width: 1200px;
+    max-width: 1300px;
     position: relative;
     padding: 15px;
     border-radius: 8px;
@@ -651,7 +651,7 @@ footer {
     scrollbar-width: none;
     -ms-overflow-style: none;
     padding: 5px 0;
-    width: calc(450px + 300px);
+    width: calc(800px);
     scroll-behavior: smooth;
     margin: 0 auto;
 }
